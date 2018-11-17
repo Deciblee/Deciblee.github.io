@@ -1,0 +1,17 @@
+body {
+	text-align: center;
+    background-color: #d9d9d9;
+    font-family: Arial;
+}
+
+h1 {
+    text-align: center;
+    font-size: 40px;
+    font-family: Arial;
+}
+
+p {
+	text-align: center;
+    font-family: Arial;
+    font-size: 20px;
+}
